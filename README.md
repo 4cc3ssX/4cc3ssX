@@ -29,7 +29,7 @@ I'm also in love with these compile languages
 - Rust
 
 ## Collaboration
-I'm actively looking to collaborate on JavaScript projects and contribute to the open-source community. If you have any interesting JavaScript projects, feel free to reach out to me!
+I'm actively looking to collaborate on JavaScript projects and contribute to the open-source community. If you have any interesting JavaScript, TypeScript, Python, and other commercial projects, feel free to reach out to me!
 
 ## Contact Me
 - Website: [https://ryam-portfolio.vercel.app](https://ryam-portfolio.vercel.app)
