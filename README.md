@@ -6,9 +6,10 @@ I am a software developer with a passion for JavaScript and Python. I enjoy work
 
 ## Interests
 I am currently focusing on learning and exploring into these wonderful technologies:
-- React.js
-- React Native
+- TypeScript
 - Next.js
+- React Native
+- React.js
 - Express.js
 - Swift
 - Kotlin
