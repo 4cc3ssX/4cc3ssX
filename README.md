@@ -2,20 +2,17 @@
 See More at [here](https://ryam-portfolio.vercel.app)👇🏻
 
 ## About Me
-I am a software developer with a passion for TypeScript and Python. I enjoy working with different technologies and exploring their capabilities.
+I am a software engineer with a passion for TypeScript and Python. I enjoy working with different technologies and exploring their capabilities.
 
 ## Interests
 I am currently focusing on learning and exploring into these wonderful technologies:
 - TypeScript
-- Next.js
+- NextJS
 - React Native
-- React.js
-- Express.js
+- NestJS
 - Swift
 - Kotlin
-- Java
 - C++
-- Rust
 
 ## Collaboration
 I'm actively looking to collaborate on JavaScript projects and contribute to the open-source community. If you have any interesting JavaScript, TypeScript, Python, and other commercial projects, feel free to reach out to me!
