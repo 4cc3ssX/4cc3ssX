@@ -24,6 +24,11 @@ Let’s connect and discuss how we can work together:
 - **Email**: [heinmyatthu.workspace@gmail.com](mailto:heinmyatthu.workspace@gmail.com)
 - **WhatsApp**: [+959792817996](https://wa.me/959792817996)
 
+## Support
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/4cc3ssX)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ryam_dev)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/4cc3ssx)
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
