@@ -1,5 +1,5 @@
 # Hi, I'm Ryam 👋🏻
-See More at [here](https://ryam-portfolio.vercel.app)👇🏻
+See More at [here](https://ryamjs.dev)👇🏻
 
 ## About Me
 I am a software engineer with a passion for TypeScript and Python. I enjoy working with different technologies and exploring their capabilities.
@@ -14,14 +14,11 @@ I am currently focusing on learning and exploring into these wonderful technolog
 - Kotlin
 - C++
 
-## Collaboration
-I'm actively looking to collaborate on JavaScript projects and contribute to the open-source community. If you have any interesting JavaScript, TypeScript, Python, and other commercial projects, feel free to reach out to me!
-
 ## Contact Me
 Let’s connect and discuss how we can work together:
-- **Website**: [ryam-portfolio.vercel.app](https://ryam-portfolio.vercel.app)
+- **Website**: [https://ryamjs.dev](https://ryamjs.dev)
 - **LinkedIn**: [Hein Myat Thu](https://www.linkedin.com/in/heinmyatthu/)
-- **Email**: [heinmyatthu.workspace@gmail.com](mailto:heinmyatthu.workspace@gmail.com)
+- **Email**: [hello@ryamjs.dev](mailto:hello@ryamjs.dev)
 - **WhatsApp**: [+959792817996](https://wa.me/959792817996)
 
 ## Support
