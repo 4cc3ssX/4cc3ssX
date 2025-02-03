@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-ryamjs.dev-blue?style=flat-square)](https://ryamjs.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hein%20Myat%20Thu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heinmyatthu/)
 [![Email](https://img.shields.io/badge/Email-hello@ryamjs.dev-red?style=flat-square&logo=gmail)](mailto:hello@ryamjs.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B959792817996-green?style=flat-square&logo=whatsapp)](https://wa.me/959792817996)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B66934094077-green?style=flat-square&logo=whatsapp)](https://wa.me/66934094077)
 
 ## About Me 🚀
 
@@ -43,7 +43,7 @@ I’m always open to discussing new opportunities, collaborations, or just chatt
 - **Website**: [https://ryamjs.dev](https://ryamjs.dev)
 - **LinkedIn**: [Hein Myat Thu](https://www.linkedin.com/in/heinmyatthu/)
 - **Email**: [hello@ryamjs.dev](mailto:hello@ryamjs.dev)
-- **WhatsApp**: [+959792817996](https://wa.me/959792817996)
+- **WhatsApp**: [+66934094077](https://wa.me/66934094077)
 
 ## Support Me ☕
 
