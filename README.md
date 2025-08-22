@@ -9,17 +9,6 @@
 
 I'm a **Software Engineer** who loves building **full-stack applications**. I enjoy creating seamless, scalable, and user-friendly experiences by combining modern frontend and backend technologies. My passion lies in exploring new tools and frameworks to solve real-world problems.
 
-## Interests 🌟
-
-I’m currently diving deep into these technologies:
-- **TypeScript**
-- **NextJS**
-- **React Native**
-- **NestJS**
-- **Swift**
-- **Kotlin**
-- **C++**
-
 ## Skills 🛠️
 
 ### Languages
@@ -28,13 +17,12 @@ I’m currently diving deep into these technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Frameworks & Libraries
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Frameworks
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white)
 
 ## Let’s Connect! 🤝
 
