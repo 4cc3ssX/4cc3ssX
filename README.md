@@ -49,6 +49,8 @@ If you find my work interesting or helpful, consider supporting me:
 
 > 📦 64.3 kB Used in GitHub's Storage 
  > 
+> 🏆 1,749 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 27 Public Repositories 
