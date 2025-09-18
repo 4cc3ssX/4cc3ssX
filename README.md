@@ -43,9 +43,13 @@ If you find my work interesting or helpful, consider supporting me:
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%2059%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 64.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,758 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
