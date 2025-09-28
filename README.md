@@ -43,8 +43,6 @@ If you find my work interesting or helpful, consider supporting me:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2020%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 68.7 kB Used in GitHub's Storage 
